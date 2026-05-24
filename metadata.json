@@ -1,0 +1,6 @@
+{
+  "name": "Closira AI Assistant",
+  "description": "Premium AI Customer Support Assistant for Bloom Aesthetics Clinic featuring SOP answering, lead qualification, and real-time safety escalation tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
